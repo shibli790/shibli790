@@ -150,7 +150,7 @@ I'm a **MERN Stack Developer**  with hands-on expertise in TypeScript, Redux, Ne
 - 🎓 Currently Learning From: Programming Hero
 - ✍️ Languages I Write In: Bangla & English
 - 📍 Location: Narsingdi, Bangladesh <br> <br>
-🕒 Availability: 10:00 AM – 11:00 PM (GMT+6)
+🕒 Availability: 10:00 AM – 10:00 PM (GMT+6)
 
 
 ## <h2>Connect With Me <img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>  
