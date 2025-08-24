@@ -122,7 +122,7 @@ I'm a **MERN Stack Developer**  with hands-on expertise in TypeScript, Redux, Ne
                     <td> HTML and CSS only</td>
                     <td><a href="https://github.com/shibli790/pay-wallet-mobile-apps.git">Code</a>
                         &nbsp;&nbsp;|&nbsp;&nbsp; <a
-                            href="https://shibli790.github.io/B12A02-Responsive-shibli/">Demo</a></td>
+                            href="https://shibli790.github.io/pay-wallet-mobile-apps/">Demo</a></td>
                 </tr>
                 <tr>
                     <td><b>The Tea House – Premium Tea Café Website</b></td>
