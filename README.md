@@ -118,11 +118,19 @@ I'm a **MERN Stack Developer**  with hands-on expertise in TypeScript, Redux, Ne
             <tbody>
                 <tr>
                     <td><b>My Most Recent Academic Course Project</b></td>
-                    <td>My Most Recent Academic Course Project</td>
+                    <td>Mobile Banking Authentication Interface A responsive and professional mobile banking login interface built with HTML, Tailwind CSS, and JavaScript . </td>
                     <td> HTML and CSS only</td>
-                    <td><a href="https://github.com/shibli790/B12A02-Responsive-shibli.git">Code</a>
+                    <td><a href="https://github.com/shibli790/pay-wallet-mobile-apps.git">Code</a>
                         &nbsp;&nbsp;|&nbsp;&nbsp; <a
                             href="https://shibli790.github.io/B12A02-Responsive-shibli/">Demo</a></td>
+                </tr>
+                <tr>
+                    <td><b>The Tea House – Premium Tea Café Website</b></td>
+                    <td>A responsive tea café website built with HTML & CSS featuring premium tea collections, product highlights, and customer ratings.</td>
+                    <td> HTML And TAILWIND CSS Only</td>
+                    <td><a href="https://github.com/shibli790/shibli-tea-shop-mili5.git">Code</a>
+                        &nbsp;&nbsp;|&nbsp;&nbsp; <a
+                            href="https://shibli790.github.io/shibli-tea-shop-mili5/">Demo</a></td>
                 </tr>
                 <tr>
                     <td><b>Portfolio Website</b></td>
