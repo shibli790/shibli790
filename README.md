@@ -18,7 +18,7 @@
 <br>
 
 
-## <h2> About Me  <img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> About Me 
 👋 Nice to meet you!
 I'm a **MERN Stack Developer**  with hands-on expertise in TypeScript, Redux, Next.js, and Mongoose. I build everything from visually appealing front-end interfaces to secure and scalable back-end systems, following modern standards like JavaScript (ES6+) and RESTful APIs. My code is clean, well-organized, and designed to scale.
  <br>
