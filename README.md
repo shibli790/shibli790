@@ -122,7 +122,7 @@ I'm a **MERN Stack Developer**  with hands-on expertise in TypeScript, Redux, Ne
                     <td> HTML and CSS only</td>
                     <td><a href="https://github.com/shibli790/Shibli-Green-Earth-A6.git">Code</a>
                         &nbsp;&nbsp;|&nbsp;&nbsp; <a
-                            href="shibli-green-earth-a6.netlify.app">Demo</a></td>
+                            href="https://shibli790.github.io/Shibli-Green-Earth-A6/">Demo</a></td>
                 </tr>
                 <tr>
                     <td><b>Premium - Mobile Banking Login Website</b></td>
