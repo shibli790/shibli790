@@ -119,7 +119,7 @@ I'm a **MERN Stack Developer**  with hands-on expertise in TypeScript, Redux, Ne
                 <tr>
                     <td><b>My Most Recent Academic Course Project</b></td>
                     <td>🚀 Built the Green Earth Website with responsive design, dynamic cart, category filter, modal details, donation form & impact stats — all deployed on Netlify! 🌍✨</td>
-                    <td> HTML and CSS only</td>
+                    <td> HTML and TAILWIND CSS ,JAVASCRIPT ✨</td>
                     <td><a href="https://github.com/shibli790/Shibli-Green-Earth-A6.git">Code</a>
                         &nbsp;&nbsp;|&nbsp;&nbsp; <a
                             href="https://shibli790.github.io/Shibli-Green-Earth-A6/">Demo</a></td>
